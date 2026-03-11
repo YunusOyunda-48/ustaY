@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-mods.db
-storage/mod_files/*
-!storage/mod_files/.gitkeep
